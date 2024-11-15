@@ -1,0 +1,66 @@
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2\Projeto2\bin\Debug\net6.0\Projeto2.exe
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2\Projeto2\bin\Debug\net6.0\Projeto2.deps.json
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2\Projeto2\bin\Debug\net6.0\Projeto2.runtimeconfig.json
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2\Projeto2\bin\Debug\net6.0\Projeto2.dll
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2\Projeto2\bin\Debug\net6.0\Projeto2.pdb
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2\Projeto2\obj\Debug\net6.0\Projeto2.csproj.AssemblyReference.cache
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2\Projeto2\obj\Debug\net6.0\Projeto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2\Projeto2\obj\Debug\net6.0\Projeto2.AssemblyInfoInputs.cache
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2\Projeto2\obj\Debug\net6.0\Projeto2.AssemblyInfo.cs
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2\Projeto2\obj\Debug\net6.0\Projeto2.csproj.CoreCompileInputs.cache
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2\Projeto2\obj\Debug\net6.0\Projeto2.dll
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2\Projeto2\obj\Debug\net6.0\refint\Projeto2.dll
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2\Projeto2\obj\Debug\net6.0\Projeto2.pdb
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2\Projeto2\obj\Debug\net6.0\Projeto2.genruntimeconfig.cache
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2\Projeto2\obj\Debug\net6.0\ref\Projeto2.dll
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2 - Cópia (2)\Projeto2\obj\Debug\net6.0\Projeto2.csproj.AssemblyReference.cache
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2 - Cópia (2)\Projeto2\obj\Debug\net6.0\Projeto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2 - Cópia (2)\Projeto2\obj\Debug\net6.0\Projeto2.AssemblyInfoInputs.cache
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2 - Cópia (2)\Projeto2\obj\Debug\net6.0\Projeto2.AssemblyInfo.cs
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2 - Cópia (2)\Projeto2\obj\Debug\net6.0\Projeto2.csproj.CoreCompileInputs.cache
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2 - Cópia (2)\Projeto2\obj\Debug\net6.0\Projeto2.dll
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2 - Cópia (2)\Projeto2\obj\Debug\net6.0\refint\Projeto2.dll
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2 - Cópia (2)\Projeto2\obj\Debug\net6.0\Projeto2.pdb
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2 - Cópia (2)\Projeto2\bin\Debug\net6.0\Projeto2.exe
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2 - Cópia (2)\Projeto2\bin\Debug\net6.0\Projeto2.deps.json
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2 - Cópia (2)\Projeto2\bin\Debug\net6.0\Projeto2.runtimeconfig.json
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2 - Cópia (2)\Projeto2\bin\Debug\net6.0\Projeto2.dll
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2 - Cópia (2)\Projeto2\bin\Debug\net6.0\Projeto2.pdb
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2 - Cópia (2)\Projeto2\bin\Debug\net6.0\DLL_Enums.dll
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2 - Cópia (2)\Projeto2\bin\Debug\net6.0\DLL_Exceptions.dll
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2 - Cópia (2)\Projeto2\bin\Debug\net6.0\DLL_Models.dll
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2 - Cópia (2)\Projeto2\bin\Debug\net6.0\DLL_Enums.pdb
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2 - Cópia (2)\Projeto2\bin\Debug\net6.0\DLL_Models.pdb
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2 - Cópia (2)\Projeto2\bin\Debug\net6.0\DLL_Exceptions.pdb
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2 - Cópia (2)\Projeto2\obj\Debug\net6.0\Projeto2.csproj.CopyComplete
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2 - Cópia (2)\Projeto2\obj\Debug\net6.0\Projeto2.genruntimeconfig.cache
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2 - Cópia (2)\Projeto2\obj\Debug\net6.0\ref\Projeto2.dll
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2\Projeto2\bin\Debug\net6.0\DLL_Enums.dll
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2\Projeto2\bin\Debug\net6.0\DLL_Exceptions.dll
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2\Projeto2\bin\Debug\net6.0\DLL_Models.dll
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2\Projeto2\bin\Debug\net6.0\DLL_Enums.pdb
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2\Projeto2\bin\Debug\net6.0\DLL_Models.pdb
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2\Projeto2\bin\Debug\net6.0\DLL_Exceptions.pdb
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto2\Projeto2\obj\Debug\net6.0\Projeto2.csproj.CopyComplete
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\Projeto2\bin\Debug\net6.0\Projeto2.exe
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\Projeto2\bin\Debug\net6.0\Projeto2.deps.json
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\Projeto2\bin\Debug\net6.0\Projeto2.runtimeconfig.json
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\Projeto2\bin\Debug\net6.0\Projeto2.dll
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\Projeto2\bin\Debug\net6.0\Projeto2.pdb
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\Projeto2\bin\Debug\net6.0\DLL_Enums.dll
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\Projeto2\bin\Debug\net6.0\DLL_Exceptions.dll
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\Projeto2\bin\Debug\net6.0\DLL_Models.dll
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\Projeto2\bin\Debug\net6.0\DLL_Enums.pdb
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\Projeto2\bin\Debug\net6.0\DLL_Models.pdb
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\Projeto2\bin\Debug\net6.0\DLL_Exceptions.pdb
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\Projeto2\obj\Debug\net6.0\Projeto2.csproj.AssemblyReference.cache
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\Projeto2\obj\Debug\net6.0\Projeto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\Projeto2\obj\Debug\net6.0\Projeto2.AssemblyInfoInputs.cache
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\Projeto2\obj\Debug\net6.0\Projeto2.AssemblyInfo.cs
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\Projeto2\obj\Debug\net6.0\Projeto2.csproj.CoreCompileInputs.cache
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\Projeto2\obj\Debug\net6.0\Projeto2.csproj.CopyComplete
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\Projeto2\obj\Debug\net6.0\Projeto2.dll
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\Projeto2\obj\Debug\net6.0\refint\Projeto2.dll
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\Projeto2\obj\Debug\net6.0\Projeto2.pdb
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\Projeto2\obj\Debug\net6.0\Projeto2.genruntimeconfig.cache
+C:\Users\alexandre\Desktop\Main\LESI\2Ano\1Semestre\Programacao orientada a objetos\Projeto_POO_26590\Projeto2\obj\Debug\net6.0\ref\Projeto2.dll
